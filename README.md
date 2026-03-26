@@ -18,3 +18,20 @@
 
 ## Demo Video
 https://drive.google.com/file/d/16ZT9HWHzjGhs4NZIQrV86GiCYc9tUPsk/view?usp=drive_link
+
+## Screenshots
+
+## Server
+![Run Server](screenshots/server.jpg)
+
+## Client
+![Connection Established](screenshots/clientConnected.jpg)
+
+### Server GUI
+![Server](screenshots/serverChat.jpg)
+
+### Client GUI
+![Client](screenshots/clientChat.jpg)
+
+### Chat in Action
+![Chat](screenshots/commnunication.jpg)
