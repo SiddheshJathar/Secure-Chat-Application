@@ -34,4 +34,4 @@ https://drive.google.com/file/d/16ZT9HWHzjGhs4NZIQrV86GiCYc9tUPsk/view?usp=drive
 ![Client](screenshots/clientChat.jpg)
 
 ### Chat in Action
-![Chat](screenshots/commnunication.jpg)
+![Chat](screenshots/communication.jpg)
